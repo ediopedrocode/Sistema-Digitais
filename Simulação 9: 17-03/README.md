@@ -9,6 +9,4 @@ Adiciona o arquivo testbench.vhd -> OK -> OK -> OK.
 
 Start Compilation -> Após 100%: Clica em "Gate Level Simulation" (à direita de RTL Simulation).
 
-Lembre-se do procedimento de adicionar a pasta win32aloem.
-
-Fim.
+OBS: Lembre-se do procedimento de adicionar a pasta win32aloem.
