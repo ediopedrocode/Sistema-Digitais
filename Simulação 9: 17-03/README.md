@@ -7,6 +7,8 @@ Test Bench Name: testbench -> Top level module in test bench: testbench -> Marca
 Use test bench to perform VHDL timing simulation -> Design instance name in test bench: dut ->
 Adiciona o arquivo testbench.vhd -> OK -> OK -> OK.
 
-Start Compilation -> Após 100%: Clica em "Gate Level Simulation" (à direita de RTL Simulation).
+Start Compilation -> Após 100%: Clica em "Gate Level Simulation" (à direita de RTL Simulation). 
+
+Após isso abrirá a simulação!
 
 OBS: Lembre-se do procedimento de adicionar a pasta win32aloem.
