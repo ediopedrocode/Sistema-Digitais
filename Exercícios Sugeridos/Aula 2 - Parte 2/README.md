@@ -4,6 +4,6 @@
 
 ## Tabela Verdade:
 
-![]()
+![](https://github.com/ediopedrocode/Sistema-Digitais/blob/master/Exercícios%20Sugeridos/Aula%202%20-%20Parte%202/imagem/truth-table-74180.png)
 
 ### Para verificar se está funcionando de maneira adequada, teste com todas as entradas possíveis e compare com o comportamento descrito no datasheet.
